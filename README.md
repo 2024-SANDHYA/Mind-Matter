@@ -50,3 +50,36 @@ The application is built using modern web technologies, including **HTML**, **CS
    ```bash
    git clone https://github.com/yourusername/mind-matter.git
    cd mind-matter
+
+2. **Set up a local server**:
+   Use WAMP or XAMPP for local development. Follow their documentation for installation and setup.
+
+4. **Configure the database**:
+   Create a MySQL database and import the SQL file located in the <em>/database directory</em>
+```bash
+CREATE DATABASE mind_matter_db;
+USE mind_matter_db;
+SOURCE /path/to/mind_matter_db.sql;
+```
+
+4. **Update database configuration**:
+    Modify the **config.php** file with your database credentials.
+
+5. Run the project:
+   Start your local server and open the project in a web browser:
+```bash
+http://localhost/mind-matter
+
+
+## License
+
+This project is licensed under the MIT License.
+
+## Template Credits
+
+- **Template Name**: Terapia - Physical Therapy Website Template
+- **Template Link**: [Terapia Template](https://htmlcodex.com/physical-therapy-website-template)
+- **Template License**: [License Information](https://htmlcodex.com/license) (or read the LICENSE.txt file)
+- **Template Author**: HTML Codex
+- **Author Website**: [HTML Codex](https://htmlcodex.com)
+
