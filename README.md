@@ -1,2 +1,56 @@
-# Mind-Matter
-Mind Matter is a platform that offers individual to analyse their mental conditons and what steps they can take to be mentally healthy. The website comprises of dynamic games and quizes that helping individuals to understand better.
+# Mind Matter
+
+## Overview
+**Mind Matter** is a web application designed to improve mental health through engaging games and quizzes. The project focuses on interactive activities that help users manage stress, develop mindfulness, and enhance overall well-being.
+
+The application is built using modern web technologies, including **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **SCSS**. It provides a clean and user-friendly interface with responsive design to ensure accessibility across different devices.
+
+## Features
+
+1. **Games**:
+   - The games are designed to be both fun and therapeutic, helping users take a break from stress and anxiety. Each game is tailored to specific mental health conditions or general cognitive exercises. 
+   - The website offers the following condition-based games:
+
+     h) **ADHD Web Page**:
+      - This webpage features games aimed at users with ADHD or for those who want to assess their attention span.
+         - **Simon Says Game**: Users must focus on patterns displayed on the screen and mimic the sequence, helping improve memory and attention span.
+         - **Memory Match Game**: Players match card pairs, a helpful activity to boost memory, which can be challenging for individuals with ADHD.
+     
+     i) **Autism Web Page**:
+      - Designed with autism in mind, this webpage provides two games to help with social scenarios and expression recognition.
+         - **Social Scenario Game**: The player is presented with real-life scenarios and selects an option, encouraging thinking from different perspectives, which can be difficult for individuals with autism.
+         - **Expression Recognition Game**: This game helps users identify facial expressions, assisting with understanding social cues.
+     
+     j) **Depression Web Page**:
+      - Games on this webpage focus on cognitive behavioral therapy and mood tracking.
+         - **CBT Game**: Encourages critical thinking by having players identify right and wrong behavior patterns, providing feedback based on their choices.
+         - **Daily Mood Chart**: Users can log their daily moods at different times, helping them track patterns in their feelings and recognize if they should seek consultation.
+     
+     k) **OCD Web Page**:
+      - These games aim to help users cope with obsessive-compulsive disorder.
+         - **Match Me Game**: Introduces imperfect matches or variations to challenge the player's need for perfection, supporting Exposure and Response Prevention (ERP), a popular treatment for OCD.
+         - **Personal Precision Game**: This game tests users' precision by challenging their need for accuracy, recording frustration patterns, and providing feedback based on those patterns.
+
+2. **Quizzes**:
+   - Quizzes are designed to assess mental well-being and help users understand their mental state. Some of the key quizzes include:
+     - **Stress Level Quiz**: Measures users' current stress levels and provides recommendations for stress management.
+     - **Personality Quiz**: Offers insights into the user’s personality traits and how these traits affect their mental health.
+
+## Technology Stack
+
+- **Frontend**:
+  - HTML5: Used for structuring the content.
+  - CSS3 & SCSS: For styling the application and maintaining a clean and organized codebase using SCSS for advanced styling.
+  - JavaScript: Handles dynamic behavior on the frontend, such as interactive games and quizzes.
+  - Bootstrap (if used): Ensuring a responsive design and easy-to-use components.
+
+- **Backend**:
+  - PHP: Server-side scripting to handle form submissions, user authentication, and interaction with the database.
+  - MySQL: Database for storing user data, quiz results, and game progress.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/mind-matter.git
+   cd mind-matter
