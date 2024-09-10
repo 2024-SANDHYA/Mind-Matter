@@ -11,23 +11,19 @@ The application is built using modern web technologies, including **HTML**, **CS
    - The games are designed to be both fun and therapeutic, helping users take a break from stress and anxiety. Each game is tailored to specific mental health conditions or general cognitive exercises. 
    - The website offers the following condition-based games:
 
-     h) **ADHD Web Page**:
-      - This webpage features games aimed at users with ADHD or for those who want to assess their attention span.
+     - **ADHD Analyses**:
          - **Simon Says Game**: Users must focus on patterns displayed on the screen and mimic the sequence, helping improve memory and attention span.
          - **Memory Match Game**: Players match card pairs, a helpful activity to boost memory, which can be challenging for individuals with ADHD.
      
-     i) **Autism Web Page**:
-      - Designed with autism in mind, this webpage provides two games to help with social scenarios and expression recognition.
+     - **Autism Analyses**:
          - **Social Scenario Game**: The player is presented with real-life scenarios and selects an option, encouraging thinking from different perspectives, which can be difficult for individuals with autism.
          - **Expression Recognition Game**: This game helps users identify facial expressions, assisting with understanding social cues.
      
-     j) **Depression Web Page**:
-      - Games on this webpage focus on cognitive behavioral therapy and mood tracking.
+     - **Depression Analyses**:
          - **CBT Game**: Encourages critical thinking by having players identify right and wrong behavior patterns, providing feedback based on their choices.
          - **Daily Mood Chart**: Users can log their daily moods at different times, helping them track patterns in their feelings and recognize if they should seek consultation.
      
-     k) **OCD Web Page**:
-      - These games aim to help users cope with obsessive-compulsive disorder.
+     - **OCD Analyses**:
          - **Match Me Game**: Introduces imperfect matches or variations to challenge the player's need for perfection, supporting Exposure and Response Prevention (ERP), a popular treatment for OCD.
          - **Personal Precision Game**: This game tests users' precision by challenging their need for accuracy, recording frustration patterns, and providing feedback based on those patterns.
 
