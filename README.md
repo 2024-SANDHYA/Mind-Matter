@@ -69,7 +69,7 @@ SOURCE /path/to/mind_matter_db.sql;
    Start your local server and open the project in a web browser:
 ```bash
 http://localhost/mind-matter
-
+```
 
 ## License
 
