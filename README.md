@@ -83,3 +83,6 @@ This project is licensed under the MIT License.
 - **Template Author**: HTML Codex
 - **Author Website**: [HTML Codex](https://htmlcodex.com)
 
+
+## Developed by [Sandhya Agarwal](https://github.com/2024-SANDHYA) & [Divyansh Grover](https://github.com/divyanshgrover)
+
